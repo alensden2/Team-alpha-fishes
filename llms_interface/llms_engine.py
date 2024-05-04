@@ -40,7 +40,7 @@ class LLMEngine:
         print("Hello from LLMEngine")
 
     def hf_login(self):
-        login(token="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")
+        login(token="")
 
     # def load_model(self):
     #     print(f"******** Using Model {self.model} ********")
